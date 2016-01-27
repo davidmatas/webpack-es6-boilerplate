@@ -1,0 +1,16 @@
+{
+  "name": "webpack-es6-boilerplate",
+  "version": "1.0.0",
+  "description": "How to use webpack with ECMAScript 6.",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "devDependencies": {
+    "babel-core": "^6.4.5",
+    "babel-loader": "^6.2.1",
+    "babel-preset-es2015": "^6.3.13",
+    "node-libs-browser": "^1.0.0",
+    "webpack": "^1.12.12",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
